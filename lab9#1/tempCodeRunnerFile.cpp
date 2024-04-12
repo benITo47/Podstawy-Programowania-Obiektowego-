@@ -1,0 +1,1 @@
+  std::string myPoint2D_1_str2 = myPoint2D_1;
